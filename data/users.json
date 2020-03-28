@@ -24,6 +24,20 @@
     ]
   },
   {
+    "username": "_spirit_coder",
+    "stack": [
+      "GoLang",
+      "C#",
+      "PHP"
+    ],
+    "setup": [
+      "Google Chrome",
+      "Visual Studio Code",
+      "Windows",
+      "Linux"
+    ]
+  },
+  {
     "username": "anakagungcorp",
     "stack": [
       "JavaScript",
